@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ROW": 0, "COL": 0, "RRRCCC": 0, "UNQ": 84, "adm": "Haryana", "AOI1": 0, "Country": "India", "id_tmp": 11478, "Shape_Leng": 40000.0, "numPoly": 0, "numBurned": 0, "Shape_Le_1": 40000.0, "centX": 926774, "centY": 875556, "centXlat": 74.61702893, "centYlon": 29.87689636, "ORIG_FID": 91, "BUFF_DIST": 5.0, "Shape_Le_2": 0.00028339931, "Shape_Area": 6.39e-09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 74.616983879626162, 29.876854565956535 ], [ 74.616983879626162, 29.876944772000058 ], [ 74.617074085669685, 29.876944772000058 ], [ 74.617074085669685, 29.876854565956535 ], [ 74.616983879626162, 29.876854565956535 ] ] ] } }
+]
+}

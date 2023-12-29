@@ -1,0 +1,12 @@
+pyproj
+numpy
+rasterio
+pandas
+geopandas
+xarray
+geopandas
+ipywidgets
+ipyleaflet
+ipykernel
+matplotlib
+localtileserver

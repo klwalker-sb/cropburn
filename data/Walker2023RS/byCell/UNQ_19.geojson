@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ROW": 0, "COL": 0, "RRRCCC": 0, "UNQ": 19, "adm": "Punjab", "AOI1": 0, "Country": "India", "id_tmp": 10093, "Shape_Leng": 40000.0, "numPoly": 0, "numBurned": 0, "Shape_Le_1": 40000.0, "centX": 916774, "centY": 955556, "centXlat": 74.50706102, "centYlon": 30.59791253, "ORIG_FID": 18, "BUFF_DIST": 5.0, "Shape_Le_2": 0.00028341605, "Shape_Area": 6.39e-09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 74.507015982604855, 30.597870980538801 ], [ 74.507015982604855, 30.597961191000138 ], [ 74.507106193066136, 30.597961191000138 ], [ 74.507106193066136, 30.597870980538801 ], [ 74.507015982604855, 30.597870980538801 ] ] ] } }
+]
+}
